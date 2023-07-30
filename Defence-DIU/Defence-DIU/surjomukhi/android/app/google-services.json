@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "290370801989",
+    "project_id": "surjomukhi-138bc",
+    "storage_bucket": "surjomukhi-138bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290370801989:android:bee96146442927380f6e2c",
+        "android_client_info": {
+          "package_name": "com.example.surjomukhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290370801989-fn96fnl7d69c36ol13sve9ruj7662ch4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoiRB8qFQ_z8fx9tyKyHfE9Sp61m5jNVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290370801989-fn96fnl7d69c36ol13sve9ruj7662ch4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290370801989-4o5p44s9ee90ab3v0tb11p26o82pugo6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.surjomukhi.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
