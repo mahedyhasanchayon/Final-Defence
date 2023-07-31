@@ -25,27 +25,11 @@ Also you'll get :
   * Admin can reset system timely
   * Can Update Bus Schedule
   * Total Number of ticket will show
-    * Mirpur
+    * Mirpur/Dhanmondi/Tongi/Savar
       * Time-7.00am-Number of ticket
       * Time-8.00am-Number of ticket
       * Time-10.00am-Number of ticket
       * Time-11.00am-Number of ticket
-    * Dhanmondi
-      * Time-7.00am-Number of ticket
-      * Time-8.00am-Number of ticket
-      * Time-10.00am-Number of ticket
-      * Time-11.00am-Number of ticket
-    * Tongi
-      * Time-7.00am-Number of ticket
-      * Time-8.00am-Number of ticket
-      * Time-10.00am-Number of ticket
-      * Time-11.00am-Number of ticket
-    * Savar
-      * Time-7.00am-Number of ticket
-      * Time-8.00am-Number of ticket
-      * Time-10.00am-Number of ticket
-      * Time-11.00am-Number of ticket
- 
  
 ### Prerequisite
 
