@@ -1,4 +1,4 @@
-![Cover](Defence-DIU/Defence-DIU/Green Gradient Application Showcase Presentation.gif)
+![Cover](https://github.com/mahedyhasanchayon/Final-Defence/blob/5af31483ebefbfcd286a9afdd3d8022082063a90/Defence-DIU/Defence-DIU/Green%20Gradient%20Application%20Showcase%20Presentation.gif)
 
 
 ### Description
